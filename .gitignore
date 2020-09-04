@@ -1,0 +1,9 @@
+.DS_Store
+vendor/
+composer.lock
+config/
+exports/
+icalendar/examples/
+icalendar/README.md
+
+!/**/.gitkeep
