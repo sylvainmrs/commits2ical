@@ -1,6 +1,6 @@
 # commits2ical
 
-Converts Github commits to iCal (ics) files
+Converts Github repos commits to iCal (ics) files
 
 ## USAGE
 ```sh
