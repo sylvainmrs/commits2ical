@@ -1,5 +1,7 @@
 # commits2ical
 
+Converts Github commits to iCal (ics) files
+
 ## USAGE
 ```sh
 php ./repo.php -r owner/repo [-z=yes|no] [-b=yes|no] [-v=yes|no]
